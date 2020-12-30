@@ -3,8 +3,22 @@
 </p>
 
 # Homepage Globo
-Foi o primeiro projeto front-end que desenvolvi no bootcamp, utilizei HTML e CSS para construir a página inicial do site "globo.com", com responsividade mobile. Esse projeto foi realizado durante bootcamp Dev Full Stack do Responde Aí. 
+
+## About
+<p>
+    It was the first front-end project that I developed in the bootcamp, I used HTML and CSS to build the homepage of the site "globo.com", with mobile responsiveness. This project was carried out during the Bootcamp Dev Full Stack of Responde Aí.
+</p>
+
+<p align="center">
+    <a href="#features">Features</a> •
+    <a href="#tech">Tech Stack</a> •
+    <a href="#deploy">Deploy</a> •
+    <a href="#author">Author</a>
+</p>
+
+### Features
+- [x] List of pokemons<br>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ4OTg4OTk0LDk1MjE0MDMzNF19
+eyJoaXN0b3J5IjpbNTM5Mjk1MTEwLDk1MjE0MDMzNF19
 -->
