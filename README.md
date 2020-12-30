@@ -39,6 +39,8 @@ The application layout is available on Github Pages:
 ### Author
 ---
 
+![thumbnail](https://avatars0.githubusercontent.com/u/70967247?s=460&u=0684339f0717ae41ce18689351f0215fdf270590&v=4)
+
 <p align='center'>
   <img src="https://avatars0.githubusercontent.com/u/70967247?s=460&u=0684339f0717ae41ce18689351f0215fdf270590&v=4" width="100px;" style="border-radius: 50%;"/>
   <br><br>
@@ -49,6 +51,6 @@ The application layout is available on Github Pages:
 </p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NzIwMjUxNiwxMzk3MjAyNTE2LDk1Mj
-E0MDMzNF19
+eyJoaXN0b3J5IjpbODYyOTc5NTIxLDEzOTcyMDI1MTYsOTUyMT
+QwMzM0XX0=
 -->
