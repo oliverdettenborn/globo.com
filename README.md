@@ -39,8 +39,8 @@ The application layout is available on Github Pages:
 ### Author
 ---
 <p align='center'>
-  <img src="https://avatars0.githubusercontent.com/u/70967247?s=460&u=0684339f0717ae41ce18689351f0215fdf270590&v=4" width="100px;" style="border-radius: 50%;"/>
-  <br><br>
+  <img src="https://avatars0.githubusercontent.com/u/70967247?s=460&u=0684339f0717ae41ce18689351f0215fdf270590&v=4" width="100px" style="border-radius: 50%; display: inline"/>
+  <br>
   Made by 👋🏽 Get in Touch!<br>
   <a href="https://www.linkedin.com/in/thaliarobertadettenborn/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:thalia.born@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -48,6 +48,6 @@ The application layout is available on Github Pages:
 </p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQyMjIwNjEwLDEzOTcyMDI1MTYsOTUyMT
-QwMzM0XX0=
+eyJoaXN0b3J5IjpbMTYxMTgwMTU5MCwxMzk3MjAyNTE2LDk1Mj
+E0MDMzNF19
 -->
