@@ -1,3 +1,5 @@
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
 <p align="center">
   <img src="/img/logo_desktop.png" width="175" alt="" />
 </p>
@@ -41,13 +43,11 @@ The application layout is available on Github Pages:
   <img src="https://avatars0.githubusercontent.com/u/70967247?s=460&u=0684339f0717ae41ce18689351f0215fdf270590&v=4" width="100px;" style="border-radius: 50%;"/>
   <br><br>
   Made by 👋🏽 Get in Touch!<br>
-  <a href="https://www.linkedin.com/in/thaliarobertad/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/thaliarobertadettenborn/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:thalia.born@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/thaliadettenborn"><img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzQzMzEwNDYsOTUyMTQwMzM0XX0=
+eyJoaXN0b3J5IjpbMTM5NzIwMjUxNiw5NTIxNDAzMzRdfQ==
 -->
