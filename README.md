@@ -31,8 +31,8 @@ Languages:<br>
 # Deploy
 
 The application layout is available on Github Pages:
-<a style='margin-left: 10px;' href='https://pokedex.thaliadettenborn.vercel.app/' target='_black'><img src='https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white'></a>
+<a style='margin-left: 10px;' href='https://thaliadettenborn.github.io/globo.com/' target='_black'><img src='https://img.shields.io/badge/githubPa%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white'></a>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM2MTkwMDUwLDk1MjE0MDMzNF19
+eyJoaXN0b3J5IjpbNzAzODYxNjcxLDk1MjE0MDMzNF19
 -->
