@@ -3,8 +3,8 @@
 </p>
 
 # Homepage Globo
-Foi o primeiro projeto  front-end realizado no bootcamp, utilizando HTML e CSS, para construir a página inicial do site "globo.com" realizado durante bootcamp dev full stack do Responde Aí. 
+Foi o primeiro projeto front-end que desenvolvi no bootcamp, utilizei HTML e CSS para construir a página inicial do site "globo.com", com responsividade mobile. Esse projeto foi realizado durante bootcamp Dev Full Stack do Responde Aí. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MzQyODE1MSw5NTIxNDAzMzRdfQ==
+eyJoaXN0b3J5IjpbNTQ4OTg4OTk0LDk1MjE0MDMzNF19
 -->
