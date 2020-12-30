@@ -1,5 +1,3 @@
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-
 <p align="center">
   <img src="/img/logo_desktop.png" width="175" alt="" />
 </p>
@@ -30,10 +28,10 @@ Languages:<br>
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-# Deploy
+### Deploy
 
 The application layout is available on Github Pages:
-<a style='margin-left: 10px;' href='https://thaliadettenborn.github.io/globo.com/' target='_black'><img src='https://img.shields.io/badge/github-pages%20-%23F05033.svg?&style=for-the-badge&logo=github&logoColor=white'></a>
+<a style='margin-left: 10px' href='https://thaliadettenborn.github.io/globo.com/' target='_black'><img src='https://img.shields.io/badge/github-pages%20-%23F05033.svg?&style=for-the-badge&logo=github&logoColor=white'></a>
 
 
 ### Author
@@ -47,6 +45,6 @@ The application layout is available on Github Pages:
   <a href="https://github.com/thaliadettenborn"><img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzEyMTU2NzQsMTM5NzIwMjUxNiw5NT
-IxNDAzMzRdfQ==
+eyJoaXN0b3J5IjpbLTU3OTU5MTU0MiwxMzk3MjAyNTE2LDk1Mj
+E0MDMzNF19
 -->
