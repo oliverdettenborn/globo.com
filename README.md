@@ -17,8 +17,10 @@
 </p>
 
 ### Features
-- [x] List of pokemons<br>
+- [x] Desktop and mobile layout<br>
+- [x] Reproduction of globo.com website layout<br>
+- [x] 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM5Mjk1MTEwLDk1MjE0MDMzNF19
+eyJoaXN0b3J5IjpbMjU5NTIwMDQ2LDk1MjE0MDMzNF19
 -->
