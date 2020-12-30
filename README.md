@@ -31,7 +31,7 @@ Languages:<br>
 ### Deploy
 
 The application layout is available on Github Pages:
-<a style='margin-left: 10px' href='https://thaliadettenborn.github.io/globo.com/' target='_black'><img src='https://img.shields.io/badge/github-pages%20-%23F05033.svg?&style=for-the-badge&logo=github&logoColor=white'></a>
+<a href='https://thaliadettenborn.github.io/globo.com/' target='_black'><img src='https://img.shields.io/badge/github-pages%20-%23F05033.svg?&style=for-the-badge&logo=github&logoColor=white'></a>
 
 
 ### Author
@@ -45,6 +45,6 @@ The application layout is available on Github Pages:
   <a href="https://github.com/thaliadettenborn"><img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3OTU5MTU0MiwxMzk3MjAyNTE2LDk1Mj
-E0MDMzNF19
+eyJoaXN0b3J5IjpbLTE4NzI1NjYyMTMsMTM5NzIwMjUxNiw5NT
+IxNDAzMzRdfQ==
 -->
