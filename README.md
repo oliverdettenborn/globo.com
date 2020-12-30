@@ -30,7 +30,7 @@ Languages:<br>
 
 ### Deploy
 
-The application layout is available on Github Pages:
+The application layout is available on Github Pages:<br>
 <a href='https://thaliadettenborn.github.io/globo.com/' target='_black'><img src='https://img.shields.io/badge/github-pages%20-%23F05033.svg?&style=for-the-badge&logo=github&logoColor=white'></a>
 
 
@@ -45,6 +45,5 @@ The application layout is available on Github Pages:
   <a href="https://github.com/thaliadettenborn"><img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzI1NjYyMTMsMTM5NzIwMjUxNiw5NT
-IxNDAzMzRdfQ==
+eyJoaXN0b3J5IjpbLTIxMTYyNzY0OTldfQ==
 -->
